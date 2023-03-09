@@ -1,4 +1,3 @@
-0-iam_betty  a script that switches the current user to the user betty
 1-who_am_i a script that prints the effective username of the current user.
 2-groups a script that prints all the groups the current user is part of
 3-new_owner a script that changes the owner of the file hello to the user betty
@@ -18,4 +17,4 @@ Other users: all the permissions
 13-change_group a script that changes the group owner to school for the file hello
 101-symbolic_link_permissions a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 102-if_only  a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
-
+103-Star_Wars a script that will play the StarWars IV episode in the terminal.
