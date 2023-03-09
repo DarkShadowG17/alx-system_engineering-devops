@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo shown vimcent:staff*
+sudo chown vimcent:staff*
